@@ -25,7 +25,7 @@ namespace _4ЕИТ_A6
         {
             PopuniComboProizvodjaca();
             osveziListuModela();
-            //richTextBox1.LoadFile(@"..\..\DOC\A6.rtf");
+            //richTextBox1.LoadFile(@"..\..\DOC\A6.rtf"); // opciono: uputstvo
         }
         private void osveziListuModela()
         {
